@@ -16,11 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 25a837d4696b6cf47a27f4296804f6bf
-  m_SerializeEntries:
-  - m_GUID: b6cdee75d613a0646b6a2c32fdba2f40
-    m_Address: Assets/FreeSpace/Textures/ikumaby.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a2c945ca071a21a4d8cfad591ada63d7, type: 2}
   m_SchemaSet:
